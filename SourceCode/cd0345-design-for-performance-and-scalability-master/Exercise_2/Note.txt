@@ -1,0 +1,10 @@
+Edit resources in file main.tf 
+Edit resources in file variables.tf 
+Edit resources in file outputs.tf 
+Run 
+    terraform init  # Chạy lệnh này nếu bạn chưa khởi tạo Terraform trong thư mục này
+    terraform apply
+
+Take screenshoot Terraform_2_1
+
+    Run terraform destroy 

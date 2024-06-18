@@ -1,0 +1,17 @@
+Create resources in file main.tf 
+Run 
+    terraform init  # Chạy lệnh này nếu bạn chưa khởi tạo Terraform trong thư mục này
+    terraform apply
+
+Take screenshoot Terraform_1_1
+
+Update main.tf 
+    Comment create Udacity M4
+
+Run 
+    terraform init  # Chạy lệnh này nếu bạn chưa khởi tạo Terraform trong thư mục này
+    terraform apply
+
+Take screenshoot Terraform_destroyed
+
+    Run terraform destroy 
